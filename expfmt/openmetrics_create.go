@@ -23,7 +23,7 @@ import (
 	"strings"
 
 	"github.com/golang/protobuf/ptypes"
-	"github.com/prometheus/common/model"
+	"github.com/helloworlde/common/model"
 
 	dto "github.com/prometheus/client_model/go"
 )

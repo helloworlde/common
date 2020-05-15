@@ -17,7 +17,7 @@ jobs:
         default: true
     docker:
     - image: circleci/golang:<< parameters.go_version >>
-    working_directory: /go/src/github.com/prometheus/common
+    working_directory: /go/src/github.com/helloworlde/common
     steps:
     - checkout
     - when:

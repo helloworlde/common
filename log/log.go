@@ -13,7 +13,7 @@
 
 // Package log implements logging via logrus.
 //
-// Deprecated: This package has been replaced with github.com/prometheus/common/promlog.
+// Deprecated: This package has been replaced with github.com/helloworlde/common/promlog.
 
 package log
 
