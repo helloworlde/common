@@ -42,7 +42,7 @@ workflows:
   version: 2
   tests:
     jobs:
-    # Supported Go versions are synced with github.com/prometheus/client_golang.
+    # Supported Go versions are synced with github.com/helloworlde/client_golang.
     - test:
         name: go-1-9
         go_version: "1.9"
